@@ -17,11 +17,11 @@ In 2018, it appears that the market is starting to equal itself back out, with R
 ##RUNTIMES FOR REFACTORED CODE:
 
 # 2017
-https://github.com/DannyJohnson-Hi/stock-analysis/blob/main/VBA_Challenge_2017.png
+![Image](https://github.com/DannyJohnson-Hi/stock-analysis/blob/main/VBA_Challenge_2017.png)
 
 # 2018
 
-https://github.com/DannyJohnson-Hi/stock-analysis/blob/main/VBA_Challenge_2018.png
+![image](https://github.com/DannyJohnson-Hi/stock-analysis/blob/main/VBA_Challenge_2018.png)
 
 
 
