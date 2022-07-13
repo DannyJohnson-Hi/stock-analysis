@@ -7,12 +7,21 @@ Module 2's assignment is about making the macro we built for Steve execute more 
 In 2017, the energy market was seeing positive returns across the board, besides for TERP. DQ and SEDG almost reached 200% in Returns so these would have been excellent stocks to dive into in 2017.
 
 
+
+
 ---
 In 2018, it appears that the market is starting to equal itself back out, with RUN and ENPH still seeing positive returns. These stocks are most likely all negative because of the exponential growth we were seeing from the previous year.
 
 
 ---
 ##RUNTIMES FOR REFACTORED CODE:
+
+# 2017
+https://github.com/DannyJohnson-Hi/stock-analysis/blob/main/VBA_Challenge_2017.png
+
+# 2018
+
+https://github.com/DannyJohnson-Hi/stock-analysis/blob/main/VBA_Challenge_2018.png
 
 
 
