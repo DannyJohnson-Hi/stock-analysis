@@ -8,12 +8,12 @@ This Macro can be used to review the Return and Total Daily Volume for the speci
 ### RESULTS:
 In 2017, the energy market was seeing positive returns across the board, besides for TERP. DQ and SEDG almost reached 200% in Returns so these would have been excellent stocks to dive into in 2017.
 
-
-
+![images](https://github.com/DannyJohnson-Hi/stock-analysis/blob/main/AllStock2017.png)
 
 ---
 In 2018, it appears that the market is starting to equal itself back out, with RUN and ENPH still seeing positive returns. These stocks are most likely all negative because of the exponential growth we were seeing from the previous year.
 
+![image](https://github.com/DannyJohnson-Hi/stock-analysis/blob/main/AllStock2018.png)
 
 ---
 ##RUNTIMES FOR REFACTORED CODE:
